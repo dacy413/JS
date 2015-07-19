@@ -1,0 +1,16 @@
+{
+  "name": "testJS",
+  "version": "0.0.1",
+  "dependencies": {},
+  "repository": {},
+  "devDependencies": {
+    "lodash": ">=3.10.0"
+  },
+  "engines": {
+    "iojs": ">=2.3.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
+
